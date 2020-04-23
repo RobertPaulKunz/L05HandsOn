@@ -17,6 +17,9 @@ function App() {
                     <Link to='/favoritethings'>Favorite Things</Link>
                     </li>
                 </ul>
+
+            <hr />
+
             </div>
         </Router>
     )
